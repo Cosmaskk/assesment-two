@@ -1,0 +1,88 @@
+.navbar{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.navbar .logo a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.navbar .menu li{
+    list-style: none;
+}
+.navbar .menu a{
+    text-decoration: none;
+    color: white;
+}
+.navbar .menu{
+    display: flex;
+    padding: 10px;
+    text-space: 10px;
+    justify-content: space-between;
+    margin: 8px 0;
+}
+.navbar .first a{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.navbar .second a{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.navbar .second a{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.navbar .third a{
+  padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.navbar .fourth a{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+body{
+    background-image: url("hero.jpg");
+    text-align: center;
+}
+.two{
+    padding: 25px;
+}
+.two h4{
+    font-size: 25px;
+    color: white;
+}
+.two h5 {
+    font-size: 20px;
+    color: white;
+}
+.two h3{
+    font-size: 35px;
+    color: white;
+}
+.two p{
+    color: white;
+}
+.two .button{
+    margin: 0 8px;
+}
+.two .button a{
+    text-decoration: none;
+    color: black;
+    width: 9px;
+    padding: 9px 16px;
+    outline: none;
+    border-radius: 5px;
+}
+.two .button a:hover{
+    background-color: brown;
+    color: white;
+}
